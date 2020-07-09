@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+It is Abbas here, make thing work kind of person. 
+
+- 🌱 I’m currently learning cryptography 
+
+
+
+
+
+
 <!--
 **realabja/realabja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
