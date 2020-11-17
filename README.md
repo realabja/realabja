@@ -2,7 +2,7 @@
 
 It is Abbas here, make thing work kind of person. 
 
-- 🌱 I’m currently learning cryptography 
+- 🌱 I’m currently begining machine learning
 
 
 
