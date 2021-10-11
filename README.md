@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-It is Abbas here, make thing work kind of person. 
+It is Abbas here. 
 
-- 🌱 I’m currently begining machine learning
+- 🌱 I’m currently doing web stuff 
 
 
 
